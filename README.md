@@ -16,14 +16,25 @@ It contains measurements for three penguin species:
 
     ![Penguins](assets/image.png)
 
-with variables such as:
+<table>
+  <tr>
+    <td>
+      <img src="assets/bill.png" alt="Penguins" width="400">
+    </td>
+    <td>
+      <p>With variables such as:</p>
+      <ul>
+        <li>bill length</li>
+        <li>bill depth</li>
+        <li>flipper length</li>
+        <li>body mass</li>
+        <li>island</li>
+        <li>sex</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- bill length  
-- bill depth  
-- flipper length  
-- body mass  
-- island  
-- sex  
 
 It is built into R via the **palmerpenguins** package.
 
