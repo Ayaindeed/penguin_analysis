@@ -94,21 +94,6 @@ Illustrates correlations between body mass, flipper length, and bill dimensions.
 
 ---
 
-# Files
-
-### `analysis.R`  
-Full analysis pipeline including:
-
-- Data cleaning  
-- Exploratory Data Analysis (scatterplots, boxplots, violin plots, correlation heatmaps, PCA)  
-- Statistical tests (ANOVA, correlations)  
-- Logistic Regression  
-- Decision Tree model  
-- LDA analysis  
-- Interpretation + conclusions  
-
----
-
 ### Logistic Regression vs Decision Tree
 
 - Logistic regression achieved **~91% accuracy overall**, performing perfectly for Gentoo, very well for Adelie, and moderately for Chinstrap.  
