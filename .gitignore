@@ -1,0 +1,15 @@
+# R generated files
+.Rhistory
+.RData
+.Rproj.user/
+
+# VSCode workspace
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: log or temp files
+*.log
+*.tmp
