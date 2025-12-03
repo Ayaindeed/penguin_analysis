@@ -41,10 +41,31 @@ It is built into R via the **palmerpenguins** package.
 ---
 # Project Goals
 
-1. Explore the dataset through plots and summaries  
-2. Perform statistical tests (ANOVA, correlations)  
-3. Distinguish penguin species based on measurements  
-4. Build predictive models to classify species  
+1. **Explore the dataset through plots and summaries**  
+   - Scatterplots, boxplots, violin plots, pairwise plots, and correlation heatmaps.
+
+2. **Perform statistical tests**  
+   - ANOVA for body mass and flipper length.  
+   - Tukey’s HSD post-hoc tests.  
+   - Correlation analysis between numeric variables.
+
+3. **Distinguish penguin species based on measurements**  
+   - Visual separation via PCA.  
+   - Linear Discriminant Analysis (LDA) to maximize species separation.
+
+4. **Build predictive models to classify species**  
+   - Logistic Regression.  
+   - Decision Tree.  
+   - LDA as a predictive model.
+
+5. **Compare models and evaluate performance**  
+   - Confusion matrices, overall accuracy, and Kappa statistics.  
+   - Observations about which species are easiest/hardest to classify.
+
+6. **Provide clear, reproducible visualizations**  
+   - Save all plots in a dedicated `plots/` folder.  
+   - Include PCA, LDA, and EDA plots with concise captions for interpretation.
+
 
 ---
 ## Exploratory Data Analysis (EDA)
