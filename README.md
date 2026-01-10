@@ -1,7 +1,7 @@
 # Penguin Classification & Statistical Analysis  
 *A modern alternative to the classic iris dataset*
 
-We all know the famous **Iris dataset** — 150 flowers, 4 measurements, 3 species.  
+- We all know the famous **Iris dataset** — 150 flowers, 4 measurements, 3 species.  
 It has been the default example for decades in statistics and machine learning.
 
 But now we have something better:
