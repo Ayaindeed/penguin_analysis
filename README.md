@@ -72,23 +72,23 @@ It is built into R via the **palmerpenguins** package.
 
 We explored the Palmer Penguins dataset using various plots to understand measurement distributions and species differences.
 
-### Scatterplot: Body Mass vs Flipper Length
+### - Scatterplot: Body Mass vs Flipper Length
 ![Body vs Flipper](plots/body_flipper_scatter.png)  
 Shows the relationship between body mass and flipper length. Gentoo penguins are easily distinguishable by their larger size, while Adelie and Chinstrap overlap more.
 
-### Boxplot: Body Mass by Species
+### - Boxplot: Body Mass by Species
 ![Body Mass Boxplot](plots/body_mass_boxplot.png)  
 Displays the distribution of body mass for each species. Gentoo are heavier on average, Adelie are intermediate, and Chinstrap are lighter.
 
-### Violin Plot: Body Mass by Species
+### - Violin Plot: Body Mass by Species
 ![Body Mass Violin](plots/body_mass_violin.png)  
 Combines distribution shape and individual data points for body mass. Highlights variability within each species.
 
-### Pairwise Relationships
+### - Pairwise Relationships
 ![Pairwise Plot](plots/pairwise_plot.png)  
 Shows scatterplots for all numeric variables with species coloring, helping identify correlations and measurement patterns.
 
-### Correlation Heatmap
+### - Correlation Heatmap
 ![Correlation Heatmap](plots/correlation_heatmap.png)  
 Illustrates correlations between body mass, flipper length, and bill dimensions. Strong positive correlations are visible between body mass and flipper length.
 
